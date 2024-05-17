@@ -30,12 +30,6 @@ input{
     width: 100%;
 }
 
-/* #screen{
-    width: 80%;
-} */
-
-/* media queries */
-
 @media screen and (min-width:  350px) {
     body{
         padding: 5px;
